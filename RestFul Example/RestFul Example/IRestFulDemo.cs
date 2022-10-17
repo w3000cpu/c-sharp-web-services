@@ -14,9 +14,10 @@ namespace RestFul_Example
     public interface IRestFulDemo
     {
         [OperationContract]
-        [WebGet(ResponseFormat = WebMessageFormat.Xml, UriTemplate = "GetDefaultFormat/{id}")]
+        [WebGet(BodyStyle = WebMessageBodyStyle.Wrapped, RequestFormat = WebMessageFormat.Xml, ResponseFormat = WebMessageFormat.Xml, UriTemplate = "/GetDefaultFormat/{id}")]
         string GetDefaultFormat(string id);
-        [WebGet(ResponseFormat = WebMessageFormat.Json, UriTemplate = "GetJsonFormat/{id}")]
+
+        [WebGet(BodyStyle = WebMessageBodyStyle.Wrapped, RequestFormat = WebMessageFormat.Json, ResponseFormat = WebMessageFormat.Json, UriTemplate = "/GetJsonFormat/{id}")]
         string GetJsonFormat(string id);
     }
 }
