@@ -5,3 +5,10 @@ C:\Users\auu1075\source\repos\RestFul Example\RestFul Example\obj\Debug\RestFul 
 C:\Users\auu1075\source\repos\RestFul Example\RestFul Example\obj\Debug\RestFul Example.csproj.CoreCompileInputs.cache
 C:\Users\auu1075\source\repos\RestFul Example\RestFul Example\obj\Debug\RestFul Example.dll
 C:\Users\auu1075\source\repos\RestFul Example\RestFul Example\obj\Debug\RestFul Example.pdb
+C:\Users\auu1075\source\repos\c-sharp-web-services\RestFul Example\RestFul Example\bin\RestFul Example.dll.config
+C:\Users\auu1075\source\repos\c-sharp-web-services\RestFul Example\RestFul Example\bin\RestFul Example.dll
+C:\Users\auu1075\source\repos\c-sharp-web-services\RestFul Example\RestFul Example\bin\RestFul Example.pdb
+C:\Users\auu1075\source\repos\c-sharp-web-services\RestFul Example\RestFul Example\obj\Debug\RestFul Example.csproj.AssemblyReference.cache
+C:\Users\auu1075\source\repos\c-sharp-web-services\RestFul Example\RestFul Example\obj\Debug\RestFul Example.csproj.CoreCompileInputs.cache
+C:\Users\auu1075\source\repos\c-sharp-web-services\RestFul Example\RestFul Example\obj\Debug\RestFul Example.dll
+C:\Users\auu1075\source\repos\c-sharp-web-services\RestFul Example\RestFul Example\obj\Debug\RestFul Example.pdb
