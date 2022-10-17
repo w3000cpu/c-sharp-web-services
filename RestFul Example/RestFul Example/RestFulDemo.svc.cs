@@ -13,7 +13,7 @@ namespace RestFul_Example
     public class RestFulDemo : IRestFulDemo
     {
         public string GetDefaultFormat(string id) => $"This is XmlFormat {id}";
-
+//abs
         public string GetJsonFormat(string id) => $"This is Json Format {id}";
 
     }
